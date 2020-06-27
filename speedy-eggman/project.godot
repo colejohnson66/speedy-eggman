@@ -8,14 +8,20 @@
 
 config_version=4
 
-_global_script_classes=[  ]
+_global_script_classes=[ {
+"base": "Spatial",
+"class": "Blupi",
+"language": "GDScript",
+"path": "res://classes/blupi.gd"
+} ]
 _global_script_class_icons={
-
+"Blupi": ""
 }
 
 [application]
 
 config/name="speedy-eggman"
+run/main_scene="res://Spatial.tscn"
 config/icon="res://icon.png"
 
 [rendering]

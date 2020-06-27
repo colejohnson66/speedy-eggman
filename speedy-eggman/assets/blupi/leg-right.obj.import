@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/leg-right.obj-cd54f4ce7094063afc6e42c93ae4c46a.mesh"
+path="res://.import/leg-right.obj-43f98ec7541956efb03cd19c608900c6.mesh"
 
 [deps]
 
-files=[ "res://.import/leg-right.obj-cd54f4ce7094063afc6e42c93ae4c46a.mesh" ]
+files=[ "res://.import/leg-right.obj-43f98ec7541956efb03cd19c608900c6.mesh" ]
 
-source_file="res://obj/blupi/leg-right.obj"
-dest_files=[ "res://.import/leg-right.obj-cd54f4ce7094063afc6e42c93ae4c46a.mesh", "res://.import/leg-right.obj-cd54f4ce7094063afc6e42c93ae4c46a.mesh" ]
+source_file="res://assets/blupi/leg-right.obj"
+dest_files=[ "res://.import/leg-right.obj-43f98ec7541956efb03cd19c608900c6.mesh", "res://.import/leg-right.obj-43f98ec7541956efb03cd19c608900c6.mesh" ]
 
 [params]
 

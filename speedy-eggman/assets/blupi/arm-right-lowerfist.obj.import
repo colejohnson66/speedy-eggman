@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/arm-right-lowerfist.obj-5ecb74731f1e592e6a1d35fccf6328e9.mesh"
+path="res://.import/arm-right-lowerfist.obj-e1e217371ad968d4faa9f458bf72004d.mesh"
 
 [deps]
 
-files=[ "res://.import/arm-right-lowerfist.obj-5ecb74731f1e592e6a1d35fccf6328e9.mesh" ]
+files=[ "res://.import/arm-right-lowerfist.obj-e1e217371ad968d4faa9f458bf72004d.mesh" ]
 
-source_file="res://obj/blupi/arm-right-lowerfist.obj"
-dest_files=[ "res://.import/arm-right-lowerfist.obj-5ecb74731f1e592e6a1d35fccf6328e9.mesh", "res://.import/arm-right-lowerfist.obj-5ecb74731f1e592e6a1d35fccf6328e9.mesh" ]
+source_file="res://assets/blupi/arm-right-lowerfist.obj"
+dest_files=[ "res://.import/arm-right-lowerfist.obj-e1e217371ad968d4faa9f458bf72004d.mesh", "res://.import/arm-right-lowerfist.obj-e1e217371ad968d4faa9f458bf72004d.mesh" ]
 
 [params]
 
