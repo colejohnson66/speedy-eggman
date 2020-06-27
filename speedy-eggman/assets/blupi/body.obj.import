@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/body.obj-ef7dae04251dada91cd924b0d8244edb.mesh"
+
+[deps]
+
+files=[ "res://.import/body.obj-ef7dae04251dada91cd924b0d8244edb.mesh" ]
+
+source_file="res://obj/blupi/body.obj"
+dest_files=[ "res://.import/body.obj-ef7dae04251dada91cd924b0d8244edb.mesh", "res://.import/body.obj-ef7dae04251dada91cd924b0d8244edb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
